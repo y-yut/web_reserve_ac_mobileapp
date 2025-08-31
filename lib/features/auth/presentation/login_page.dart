@@ -19,7 +19,7 @@ class LoginPage extends ConsumerWidget {
           children: [
             TextField(
               controller: idController,
-              decoration: const InputDecoration(labelText: 'ユーザーID'),
+              decoration: const InputDecoration(labelText: 'メールアドレス'),
             ),
             TextField(
               controller: passController,

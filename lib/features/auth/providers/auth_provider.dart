@@ -10,9 +10,9 @@ class AuthNotifier extends _$AuthNotifier {
   @override
   User? build() => null;
 
-  Future<void> login(String id, String password) async {
+  Future<void> login(String mail, String password) async {
     final repo = AuthRepository();
-    final user = await repo.login(id, password);
+    final user = await repo.login(mail, password);
     if (user != null) {
       state = user;
     }

@@ -1,6 +1,8 @@
 class User {
-  final String id;
-  final String name;
+  final String? user_id;
+  final String? name;
+  final String? mail;
+  final String? pwd;
 
-  User({required this.id, required this.name});
+  User({this.user_id, this.name, this.mail, this.pwd});
 }
