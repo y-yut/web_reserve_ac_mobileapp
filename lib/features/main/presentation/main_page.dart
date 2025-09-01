@@ -21,8 +21,8 @@ class MainPage extends ConsumerWidget {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Text(auth == null ? '未ログイン' : 'ようこそ ${auth.name} さん'),
-                const SizedBox(height: 16),
+                // Text(auth == null ? '未ログイン' : 'ようこそ ${auth.name} さん'),
+                // const SizedBox(height: 16),
                 ElevatedButton(
                   onPressed: () {
                     context.push('/login');
