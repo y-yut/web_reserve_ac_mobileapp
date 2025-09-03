@@ -1,0 +1,24 @@
+dependencies: \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/Darwin.modulemap \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRApp.m \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/ObjectiveC.modulemap \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRAnalyticsConfiguration.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRBundleUtil.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRComponentContainerInternal.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRConfigurationInternal.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRFirebaseUserAgent.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRLogger.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIROptionsInternal.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/build/Pods.build/Debug-iphonesimulator/GoogleUtilities.build/module.modulemap

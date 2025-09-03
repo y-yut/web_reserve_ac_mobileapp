@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseMessaging.build/module.modulemap \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenFetchOperation.m \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenFetchOperation.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenOperation.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingCode.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingConstants.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingDefines.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingLogger.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingUtilities.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/NSError+FIRMessaging.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingCheckinPreferences.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRComponent.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRDependency.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRLogger.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIROptionsInternal.h

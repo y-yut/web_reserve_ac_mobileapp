@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/build/Pods.build/Debug-iphonesimulator/GoogleDataTransport.build/module.modulemap \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCCTLibrary/Protogen/nanopb/client_metrics.nanopb.c \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCCTLibrary/Protogen/nanopb/client_metrics.nanopb.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/build/Pods.build/Debug-iphonesimulator/nanopb.build/module.modulemap
