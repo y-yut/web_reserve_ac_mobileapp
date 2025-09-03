@@ -1,0 +1,31 @@
+moduledependenciestarget: \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/build/Pods.build/Debug-iphonesimulator/GoogleUtilities.build/module.modulemap \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/Target\ Support\ Files/GoogleUtilities/GoogleUtilities-umbrella.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/usr/include/TargetConditionals.modulemap \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULAppDelegateSwizzler.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULApplication.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULSceneDelegateSwizzler.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULAppEnvironmentUtil.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorable.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorage.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorageUserDefaults.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainStorage.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainUtils.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULNetworkInfo.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULSecureCoding.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULURLSessionDataResponse.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/NSURLSession+GULPromises.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLogger.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLoggerLevel.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/NSData+zlib/Public/GoogleUtilities/GULNSData+zlib.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULMutableDictionary.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetwork.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkConstants.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkLoggerProtocol.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkMessageCode.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkURLSession.h \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/Reachability/Public/GoogleUtilities/GULReachabilityChecker.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk/System/Library/Frameworks/SystemConfiguration.framework/Modules/module.modulemap \
+  /Users/yamazakiyuuta/AndroidStudioProjects/web_reserve_ac_mobileapp/ios/Pods/GoogleUtilities/GoogleUtilities/UserDefaults/Public/GoogleUtilities/GULUserDefaults.h
