@@ -20,9 +20,27 @@ class _AppState extends ConsumerState<App> {
   }
 
   Future<void> _initDeviceToken() async {
-    final deviceTokenProvider = StateProvider<String?>((ref) => null);
+    // 通知許可をリクエスト
+    await FirebaseMessaging.instance.requestPermission();
+
+    // APNsトークンがセットされるまで待つ
+    String? apnsToken;
+    int retry = 0;
+    while (apnsToken == null && retry < 10) {
+      apnsToken = await FirebaseMessaging.instance.getAPNSToken();
+      if (apnsToken == null) {
+        await Future.delayed(const Duration(seconds: 1));
+        retry++;
+      }
+    }
+
+    // FCMトークンを取得
     final token = await FirebaseMessaging.instance.getToken();
-    ref.read(deviceTokenProvider.notifier).state = token;
+
+    // Providerで管理する場合は、グローバルなProviderを使ってください
+    // ref.read(deviceTokenProvider.notifier).state = token;
+    print('APNs Token: $apnsToken');
+    print('FCM Token: $token');
   }
 
   @override
